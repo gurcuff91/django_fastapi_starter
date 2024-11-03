@@ -1,5 +1,5 @@
 # django_fastapi_starter
-A starter for FastApi app backed by Django
+A Starter for FastApi backed by Django
 
 Before use execute the following commands:
 ````
