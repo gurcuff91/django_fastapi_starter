@@ -1,0 +1,11 @@
+[project]
+name = "django-fastapi-starter"
+version = "0.1.0"
+description = "A starter for FastApi app backed by Django"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "django>=5.1.2",
+    "fastapi>=0.115.4",
+    "uvicorn>=0.32.0",
+]
